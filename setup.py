@@ -4,7 +4,7 @@ setup(
     name='1000gDownloader',
     packages=['one_thousand_genomes_downloader'],
     version='0.1',
-    license='Apache License 2.0',
+    license='MIT',
     description='DNA sample downloader from 1000G project',
     author='Elior Avraham',
     author_email='elior.av@gmail.com',
@@ -18,7 +18,7 @@ setup(
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Build Tools',
-        'License :: OSI Approved :: Apache License 2.0',
+        'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.6'
     ],
