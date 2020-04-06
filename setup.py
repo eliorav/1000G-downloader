@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='1000gDownloader',
-    packages=['1000gDownloader'],
+    packages=['one_thousand_genomes_downloader'],
     version='0.1',
     license='Apache License 2.0',
     description='DNA sample downloader from 1000G project',
